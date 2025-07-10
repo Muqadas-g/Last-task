@@ -68,3 +68,71 @@
 </body>
 
 </html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CoreTech Innovations</title>
+
+  <!-- Link to CSS file -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo">CoreTech</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Transforming Vision into Reality</h1>
+    <p>CoreTech Innovations - Your partner in digital transformation.</p>
+    <a href="contact.html" class="btn">Contact Us</a>
+  </section>
+
+  <!-- Services Preview Section -->
+  <section class="services-preview">
+    <h2>Our Services</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <h3>Web Development</h3>
+        <p>Professional websites for businesses and startups.</p>
+      </div>
+      <div class="service-card">
+        <h3>Graphic Design</h3>
+        <p>Creative designs for your brand and social presence.</p>
+      </div>
+      <div class="service-card">
+        <h3>3D Modeling</h3>
+        <p>High-quality 3D models for projects and prototypes.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Image or Project Sample -->
+  <section class="preview-image">
+    <h2>Our Work</h2>
+    <img src="potfolio.PNG" alt="Project Image" width="300" />
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 CoreTech Innovations. All rights reserved.</p>
+  </footer>
+
+  <!-- Link to JavaScript -->
+  <script src="main.js"></script>
+</body>
+
+</html>
