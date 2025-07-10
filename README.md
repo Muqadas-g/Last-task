@@ -136,3 +136,65 @@
 </body>
 
 </html>
+<!-- services.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Services | CoreTech Innovations</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">CoreTech</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services-page">
+        <h1>Our Services</h1>
+        <div class="services-grid">
+            <div class="service-card">
+                <h3>Web Development</h3>
+                <p>Responsive and modern websites for all businesses.</p>
+            </div>
+            <div class="service-card">
+                <h3>Graphic Design</h3>
+                <p>Creative visuals, branding, and marketing designs.</p>
+            </div>
+            <div class="service-card">
+                <h3>3D Modeling</h3>
+                <p>Detailed and accurate 3D models for all industries.</p>
+            </div>
+            <div class="service-card">
+                <h3>UI/UX Design</h3>
+                <p>User-focused designs for websites and apps.</p>
+            </div>
+            <div class="service-card">
+                <h3>Data Science & AI</h3>
+                <p>Smart insights and intelligent systems using data.</p>
+            </div>
+            <div class="service-card">
+                <h3>Mobile App Development</h3>
+                <p>Apps for Android and iOS to grow your business reach.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact: 03091800187 | Email: hr@coretechio.com</p>
+        <p>&copy; 2025 CoreTech Innovations. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
